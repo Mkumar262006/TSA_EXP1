@@ -34,5 +34,6 @@ plt.show()
 ```
 # OUTPUT:
 <img width="832" height="588" alt="image" src="https://github.com/user-attachments/assets/3d9d7ad7-7a33-4c17-9ca5-8c2744c7d5a7" />
+
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
